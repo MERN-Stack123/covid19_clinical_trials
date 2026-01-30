@@ -1,0 +1,7 @@
+# ignore data folders and files like csv etc
+data/
+*.csv
+*.xlsx
+# ignore environment files
+.env
+env/
